@@ -9,6 +9,7 @@ function App() {
     <h4>brooooo</h4>
       <h3>Hello </h3>
       <p>React Learning</p>
+      <p>new paragraph</p>
     </div>
   );
 }
